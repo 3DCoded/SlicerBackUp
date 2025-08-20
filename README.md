@@ -6,7 +6,8 @@ I semi-regularly wipe my computer to keep it running smoothly. However, I usuall
 
 ## Installation
 
-NOTE: This was written out of necessity and not originally intended to be a public project, so don't exactly expect [3MS](https://3ms.3dcoded.xyz/)-level documentation...
+> [!NOTE]
+> This was written out of necessity and not originally intended to be a public project, so don't exactly expect [3MS](https://3ms.3dcoded.xyz/)-level documentation...
 
 1. Install [Python](https://www.python.org/)
 2. Install [Pipenv](https://pipenv.pypa.io/en/latest/)
