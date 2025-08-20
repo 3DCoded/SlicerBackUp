@@ -1,3 +1,11 @@
+# SlicerBackUp script
+#
+# Copyright (C) 2025 Christopher Mattar (3dcoded)
+#                    <info3dcoded@gmail.com>
+#
+# This file may be distributed under the terms of the GNU GPLv3 license.
+#
+
 from pathlib import Path
 from git import Repo, Actor
 from git.exc import InvalidGitRepositoryError
